@@ -38,6 +38,6 @@ This project was created as part of my front-end learning journey. It helps me p
 ## 📧 Contact
 
 Made with ❤️ by **[Your Name]**  
-Feel free to reach out via [your-email@example.com] or visit my [portfolio](https://your-portfolio-link.com)
+Feel free to reach out via [kandisatriya.remote@gmail.com] or visit my [https://github.com/khandysatriya/Quote-)
 
 ---
