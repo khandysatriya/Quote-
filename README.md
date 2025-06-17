@@ -1,5 +1,3 @@
-# Quote-
-A simple and interactive web application that displays a random inspirational quote each time the user clicks a button. The project is built using HTML, CSS, and JavaScript. It demonstrates basic front-end skills such as DOM manipulation, array usage, and user interaction handling.
 # 🌟 Quote of the Day
 
 A simple and interactive web application that displays a random motivational quote with the click of a button. This project is built using **HTML**, **CSS**, and **JavaScript**, and is aimed to strengthen my understanding of basic front-end development concepts.
